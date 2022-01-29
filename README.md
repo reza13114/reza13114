@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reza13114
+- 👋 Hi, I’m Reza Jafari (@reza13114)
 - 👀 I’m interested in experimental particle physics, data analysis, machine learning, detector develompent, scientific computing, quantum computation and quantum information, 
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on experimental particle physics projects, in particlular CERN experiments.
