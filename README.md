@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Reza Jafari (@reza13114)
-- 👀 I’m interested in experimental particle physics, data analysis, machine learning, detector develompent, scientific computing, quantum computation and quantum information, 
+- 👀 I’m interested in experimental particle physics, data analysis, machine learning and AI, detector development, scientific computing, quantum computation, and quantum information.
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on experimental particle physics projects, in particlular CERN experiments.
-- 📫 How to reach me: jafari@ipm.ir
+- 💞️ I’m looking to collaborate on experimental particle physics projects, in particular CERN experiments.
+- 📫 How to reach me: jafari.reza13@gmail.com
 
 <!---
 reza13114/reza13114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
